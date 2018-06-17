@@ -1,6 +1,6 @@
 # EasyScanner
 
-A easy and convenience network scanner, included host discovery and ports scanning.
+A simple and convenience network scanner, included host discovery and ports scanning.
 
 ## Feature
 
