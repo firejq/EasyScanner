@@ -5,7 +5,7 @@
 import sys
 import getopt
 
-from auto_work.net_scanning import NetScanning
+from net_scanning.net_scanning import NetScanning
 from host_discovery.host_discovery import HostDiscovery
 from port_scanning.port_scanning import PortScanning
 

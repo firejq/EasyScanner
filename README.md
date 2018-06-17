@@ -19,6 +19,7 @@ A simple and convenience network scanner, included host discovery and ports scan
 - 支持使用隐匿性策略进行扫描
   - 采用随机扫描顺序
   - 构造数据包时采用随机化赋值
+- 支持自动获取指定网络信息
 
 ## Usage
 
