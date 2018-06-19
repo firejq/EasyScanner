@@ -41,6 +41,11 @@ A simple and convenience network scanner, included host discovery and ports scan
 	```
 	eg: `main.py -a -t 192.168.1.0/24`
 
+## Dependence
+
+- Python 3.6.3
+- Scapy 2.4
+
 ## License
 
 The EasyScanner is under the MIT License.
